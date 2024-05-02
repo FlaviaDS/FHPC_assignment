@@ -13,7 +13,7 @@ The code can be run using `mpirun`, the input parameters are:
 * -i initialize a playground 
 * -r run a playground
 * -k _num. value_ playground size
-* -e[0|1] evolution type. 0=ordered, 1=static
+* -e[0|1] evolution type: 0 ordered, 1 static
 * -f name of the file to be read or written
 * -n _num. value_ number of steps to be calculated
 * -s _num. value_ every how many steps a dump of the system is saved on file. (0 to save only at the end)

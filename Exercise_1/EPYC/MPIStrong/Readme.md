@@ -1,1 +1,1 @@
-
+This folder contains files related to the MPI Strong scalability study on nodes of the EPYC partition on the ORFEO cluster (https://orfeo-doc.areasciencepark.it/HPC/computational-resources/). The strong scalability study was carried out for different grid sizes, for 1 and 64 threads both. The naming of files follows the following rule: $mpi_strong_scalability_e_#threads_s_#size.txt. The other two files are the Python script used to plot data (.ipynb) and the graph produced (.png).

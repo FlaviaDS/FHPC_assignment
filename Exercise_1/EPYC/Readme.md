@@ -1,1 +1,1 @@
-
+This folder contains files related to the OpenMP scalability study on nodes of the EPYC partition on the ORFEO cluster (https://orfeo-doc.areasciencepark.it/HPC/computational-resources/). The naming of files follows the following rules: $openmp_scalability_#threads_EPYC.txt.

@@ -1,1 +1,1 @@
-
+This folder contains files related to the OpenMP scalability study on nodes of the EPYC partition on the ORFEO cluster (https://orfeo-doc.areasciencepark.it/HPC/computational-resources/). The study was carried out for an increasing number of processes, from 1 to 6, for 64 threads. The naming of files follows the following rule: $openmp_scalability_#processes_EPYC.txt. The other two files are the Python script used to plot data (.ipynb) and the graph produced (.png).

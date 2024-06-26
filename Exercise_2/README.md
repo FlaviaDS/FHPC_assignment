@@ -1,5 +1,5 @@
 # Exercise 2
-This directory contains the results of the scalability analyses of the **BLIS**, **OBLAS** and **MKL** libraries for the gemm matrix-matrix multiplication function. The analysis was conducted on both EPYC and THIN nodes of the *Orfeo* cluster at AREASciencePark.
+This directory contains the results of the scalability analyses of the **BLIS**, **OBLAS** and **MKL** libraries for the gemm matrix-matrix multiplication function. The analysis was conducted on both EPYC and THIN nodes of the Orfeo cluster at AREASciencePark.
 
 ## Folder Structure
 

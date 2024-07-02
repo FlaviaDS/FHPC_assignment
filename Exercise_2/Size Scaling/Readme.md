@@ -1,1 +1,1 @@
-
+Size scaling folder contains the results of the scalability study over the size of the multiplying matrix, for EPYC and THIN nodes, for 64 cores for EPYC and 12 cores for THIN partition. The size of the matrix was increased from 2000 x 2000 to 20000 x 20000 by steps of 500.

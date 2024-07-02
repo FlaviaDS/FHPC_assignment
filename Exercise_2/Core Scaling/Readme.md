@@ -1,1 +1,1 @@
-
+Core scaling folder contains the resulkts of the scalability study over the number of cores, for EPYC and THIN nodes, for a maximum of 128 cores for EPYC and 24 cores for THIN partition. The size of the matrix was set on 5000 x 5000.
